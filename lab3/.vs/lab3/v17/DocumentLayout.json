@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D334C26-327D-404C-B260-2DBB05827564}|function\\function.vcxproj|D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab3\\function\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D334C26-327D-404C-B260-2DBB05827564}|function\\function.vcxproj|solutionrelative:function\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function.cpp",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab3\\function\\function.cpp",
+              "RelativeDocumentMoniker": "function\\function.cpp",
+              "ToolTip": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab3\\function\\function.cpp",
+              "RelativeToolTip": "function\\function.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-22T08:15:09.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

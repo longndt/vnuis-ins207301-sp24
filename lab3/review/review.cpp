@@ -4,6 +4,33 @@ using namespace std;
 
 int main()
 {
+    //iteration structure : for, while, do while
+    //task: prompt user to enter student's grade. valid range: 0-10
+    double grade;
+    do {
+        cout << "Enter grade (0-10): ";
+        cin >> grade;
+    } while (grade < 0 || grade > 10);
+    cout << "Grade = " << grade;
+   
+    
+    //task: display all numbers from 1 to 100 which are divisible by 3 and 5
+    int i = 1;
+    while (i <= 100) {
+        if (i % 3 == 0 && i % 5 == 0) {
+            cout << i << endl;
+        }
+        i++;
+    } 
+
+
+    //task: display all numbers from 1 to 100 which are divisible by 3 or 5
+    for (i = 1; i <= 100; i++) {
+        if (i % 3 == 0 || i % 5 == 0) 
+            cout << i << endl;
+    }
+  
+
     //conditional structure : if else, switch case
     //task: return student year based on user's input (1-4)
     int student_year;
