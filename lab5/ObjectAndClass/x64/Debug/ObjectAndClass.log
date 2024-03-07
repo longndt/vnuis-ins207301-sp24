@@ -1,0 +1,21 @@
+﻿  ObjectAndClass.cpp
+D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(29,21): warning C4101: 'room4': unreferenced local variable
+D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(29,14): warning C4101: 'room3': unreferenced local variable
+D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(40,10): error C2248: 'Room::length': cannot access private member declared in class 'Room'
+  D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(12,12):
+  see declaration of 'Room::length'
+  D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(8,7):
+  see declaration of 'Room'
+  
+D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(41,10): error C2248: 'Room::breadth': cannot access private member declared in class 'Room'
+  D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(13,12):
+  see declaration of 'Room::breadth'
+  D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(8,7):
+  see declaration of 'Room'
+  
+D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(42,10): error C2248: 'Room::height': cannot access private member declared in class 'Room'
+  D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(14,12):
+  see declaration of 'Room::height'
+  D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab5\ObjectAndClass\ObjectAndClass.cpp(8,7):
+  see declaration of 'Room'
+  
