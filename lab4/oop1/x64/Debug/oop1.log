@@ -1,0 +1,3 @@
+﻿  oop1.cpp
+D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab4\oop1\oop1.cpp(58,9): warning C4930: 'Circle cirle1(void)': prototyped function not called (was a variable definition intended?)
+  oop1.vcxproj -> D:\workspace\VNUIS-INS2073\vnuis-ins207301\lab4\x64\Debug\oop1.exe
