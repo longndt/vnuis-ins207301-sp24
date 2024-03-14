@@ -12,8 +12,10 @@ class B : public A {};
 
 class C : public B {};
 
+class D : public C {};
+
 int main() {
-    C obj;
+    D obj;
     obj.display();
     return 0;
 }
