@@ -19,11 +19,12 @@ public:
 };
 
 int main() {
-    Derived derived1, derived2;
+    Derived derived1;
+    //access to function (method) in derived class
     derived1.print();
 
-    // access print() function of the Base class
-    derived2.Base::print();
+    //access to function (method) in base class
+    derived1.Base::print();
 
     return 0;
 }
