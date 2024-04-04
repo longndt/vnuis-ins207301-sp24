@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab8\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207302\\lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B60AC9C1-DBC5-4DD5-B64A-2E87AC819350}|Interface1\\Interface1.vcxproj|D:\\workspace\\VNUIS-INS2073\\vnuis-ins207302\\lab8\\Interface1\\Interface1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B60AC9C1-DBC5-4DD5-B64A-2E87AC819350}|Interface1\\Interface1.vcxproj|solutionrelative:Interface1\\Interface1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface1.cpp",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207302\\lab8\\Interface1\\Interface1.cpp",
+              "RelativeDocumentMoniker": "Interface1\\Interface1.cpp",
+              "ToolTip": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207302\\lab8\\Interface1\\Interface1.cpp",
+              "RelativeToolTip": "Interface1\\Interface1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T06:45:16.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

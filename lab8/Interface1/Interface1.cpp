@@ -25,4 +25,10 @@ class Circle : public IShape {
     double radius;
 public:
     Circle(double r) : radius(r) {}
-    double getArea
+    double getArea() const override {
+        return 3.14159 * radius * radius;
+    }
+    double getPerimeter() const override {
+        return 2 * 3.14159 * radius;
+    }
+};
