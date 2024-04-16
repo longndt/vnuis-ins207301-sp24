@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A462AFE-5065-44F2-A7B2-318950E69A36}|Aggregation\\Aggregation.vcxproj|D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Aggregation\\Aggregation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A462AFE-5065-44F2-A7B2-318950E69A36}|Aggregation\\Aggregation.vcxproj|solutionrelative:Aggregation\\Aggregation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8851746-563A-491C-A961-F3B22A8D9A75}|Composition\\Composition.vcxproj|D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Composition\\Composition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8851746-563A-491C-A961-F3B22A8D9A75}|Composition\\Composition.vcxproj|solutionrelative:Composition\\Composition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E645EB-02CD-40B8-A611-0C0BBBB786DD}|Association\\Association.vcxproj|D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Association\\Association.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39E645EB-02CD-40B8-A611-0C0BBBB786DD}|Association\\Association.vcxproj|solutionrelative:Association\\Association.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aggregation.cpp",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Aggregation\\Aggregation.cpp",
+              "RelativeDocumentMoniker": "Aggregation\\Aggregation.cpp",
+              "ToolTip": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Aggregation\\Aggregation.cpp",
+              "RelativeToolTip": "Aggregation\\Aggregation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T06:36:31.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Composition.cpp",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Composition\\Composition.cpp",
+              "RelativeDocumentMoniker": "Composition\\Composition.cpp",
+              "ToolTip": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Composition\\Composition.cpp",
+              "RelativeToolTip": "Composition\\Composition.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T06:29:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Association.cpp",
+              "DocumentMoniker": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Association\\Association.cpp",
+              "RelativeDocumentMoniker": "Association\\Association.cpp",
+              "ToolTip": "D:\\workspace\\VNUIS-INS2073\\vnuis-ins207301\\lab9\\Association\\Association.cpp",
+              "RelativeToolTip": "Association\\Association.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T06:20:13.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
