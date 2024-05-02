@@ -8,13 +8,13 @@ int main()
 	int arr[] = { 1, 2, 3, 4, 5 };
 
 	// Size of one element of an array 
-	cout << "Size of arr[0]: " << sizeof(arr[0]) << endl;
+	cout << "Size of arr[3]: " << sizeof(arr[3]) << endl;
 
 	// Size of array 'arr' 
 	cout << "Size of arr: " << sizeof(arr) << endl;
 
 	// Length of an array 
-	int n = sizeof(arr) / sizeof(arr[0]);
+	int n = sizeof(arr) / sizeof(arr[3]);
 
 	cout << "Length of an array: " << n << endl;
 
