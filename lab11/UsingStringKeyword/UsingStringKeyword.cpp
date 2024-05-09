@@ -1,5 +1,6 @@
 // C++ Program to demonstrate use of string keyword
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()

@@ -10,7 +10,6 @@ void print_string(string s)
 
 int main()
 {
-
 	string s = "GeeksforGeeks";
 	print_string(s);
 
