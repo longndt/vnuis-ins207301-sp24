@@ -8,7 +8,7 @@ int main()
 
     // opening a file in write mode.
     ofstream myfile;
-    myfile.open("E:\\message.txt");
+    myfile.open("D:\\output.txt");
 
     cout << "Writing to the file" << endl;
     cout << "Enter your name: ";
@@ -26,7 +26,7 @@ int main()
 
     // opening a file in read mode.
     ifstream infile;
-    infile.open("E:\\message.txt");
+    infile.open("D:\\output.txt");
 
     cout << "Reading from a file" << endl; infile >> data;
 

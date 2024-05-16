@@ -4,7 +4,7 @@
 using namespace std;
 
 void writeFile() {
-    ofstream outFile("example.txt"); // Create an ofstream object and open "example.txt" for writing
+    ofstream outFile("D:\\example.txt"); // Create an ofstream object and open "example.txt" for writing
     if (outFile.is_open()) {
         outFile << "Hello, world!" << endl; // Write a string to the file
         outFile << "This is an example of file handling in C++." << endl; // Write another string
@@ -16,7 +16,7 @@ void writeFile() {
 }
 
 void readFile() {
-    ifstream inFile("example.txt"); // Create an ifstream object and open "example.txt" for reading
+    ifstream inFile("D:\\example.txt"); // Create an ifstream object and open "example.txt" for reading
     string line;
     if (inFile.is_open()) {
         while (getline(inFile, line)) { // Read data from the file line by line
